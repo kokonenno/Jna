@@ -1,0 +1,6 @@
+[submodule "OnlineJudgeDeploy"]
+	path = OnlineJudgeDeploy
+	url = https://github.com/kokonenno/OnlineJudgeDeploy.git
+[submodule "OnlineJudgeFE"]
+	path = OnlineJudgeFE
+	url = https://github.com/kokonenno/OnlineJudgeFE.git
